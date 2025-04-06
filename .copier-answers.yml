@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier
+_commit: f2e3990
+_src_path: https://github.com/python-project-templates/base.git
+add_extension: python
+email: t.paine154@gmail.com
+github: timkpaine
+project_description: Alias for csp-adapter-symphony
+project_name: csp-symphony
+python_version_primary: '3.11'
+team: the csp-symphony authors
