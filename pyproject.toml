@@ -46,8 +46,8 @@ develop = [
 [project.scripts]
 
 [project.urls]
-Repository = "https://github.com/timkpaine/csp-symphony"
-Homepage = "https://github.com/timkpaine/csp-symphony"
+Repository = "https://github.com/tkp-aliases/csp-symphony"
+Homepage = "https://github.com/tkp-aliases/csp-symphony"
 
 [tool.bumpversion]
 current_version = "0.1.0"
