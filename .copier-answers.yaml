@@ -3,7 +3,7 @@ _commit: 42057e0
 _src_path: https://github.com/python-project-templates/base.git
 add_extension: python
 email: t.paine154@gmail.com
-github: timkpaine
+github: tkp-aliases
 project_description: Alias for csp-adapter-symphony
 project_name: csp-symphony
 python_version_primary: '3.11'
