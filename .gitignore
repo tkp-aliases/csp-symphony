@@ -139,10 +139,13 @@ js/dist
 js/lib
 js/node_modules
 js/*.tgz
+csp_symphony/extension
 
 # Jupyter
 .ipynb_checkpoints
 .autoversion
+!csp_symphony/extension/csp_symphony.json
+!csp_symphony/extension/install.json
 csp_symphony/nbextension
 csp_symphony/labextension
 
