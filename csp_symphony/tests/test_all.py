@@ -1,4 +1,4 @@
-from csp_symphony import *  # noqa
+from csp_symphony import *
 
 
 def test_all():
